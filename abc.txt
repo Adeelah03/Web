@@ -1,0 +1,1 @@
+git config --global user.email "adeelah.a@yru.ac.th"
